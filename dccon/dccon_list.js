@@ -32,5 +32,5 @@ dcConsData = [
 	{ "name": "알파팩.gif", "keywords": ["알파팩"], "tags": ["시지", "움짤"] },
 
 	{ "name": "냥캣.gif", "keywords": ["냥캣"], "tags": ["고양이", "냥캣", "움짤"] },
-    { "name": "amd.gif", "keywords": ["amd", "암드"], "tags": ["암드", "투명"] }
+   	{ "name": "amd.png", "keywords": ["amd", "암드"], "tags": ["암드", "투명"] }
 ];
