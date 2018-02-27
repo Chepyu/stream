@@ -33,4 +33,9 @@ dcConsData = [
 
 	{ "name": "냥캣.gif", "keywords": ["냥캣"], "tags": ["고양이", "냥캣", "움짤"] },
    	{ "name": "amd.png", "keywords": ["amd", "암드"], "tags": ["암드", "투명"] }
+
+        { "name": "세야나.gif", "keywords": ["세야나"], "tags": ["아카네", "에어케미", "체퓨"] },
+        { "name": "그렇구나.gif", "keywords": ["글쿠나", "그렇구나"], "tags": ["아카네", "에어케미", "체퓨"] },
+        { "name": "와카루.gif", "keywords": ["와카루"], "tags": ["아카네", "에어케미", "체퓨"] },
+        { "name": "알긋다.gif", "keywords": ["알긋다", "알겠다"], "tags": ["아카네", "에어케미", "체퓨"] }
 ];
