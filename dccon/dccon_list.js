@@ -34,6 +34,10 @@ dcConsData = [
 
 	{ "name": "냥캣.gif", "keywords": ["냥캣"], "tags": ["고양이", "냥캣", "움짤"] },
    	{ "name": "amd.png", "keywords": ["amd", "암드"], "tags": ["암드", "투명"] },
+	{ "name": "편안.png", "keywords": ["편안"], "tags": ["게비스콘"] },
+	{ "name": "불편.png", "keywords": ["불편"], "tags": ["게비스콘"] },
+	{ "name": "이지붐.jpg", "keywords": ["이지붐"], "tags": ["이지붐"] },
+	{ "name": "펄럭.gif", "keywords": ["펄럭"], "tags": ["대한민국"] },
 
 	{ "name": "세야나.gif", "keywords": ["세야나"], "tags": ["아카네", "에어케미", "체퓨"] },
     { "name": "그렇구나.gif", "keywords": ["글쿠나", "그렇구나"], "tags": ["아카네", "에어케미", "체퓨"] },
