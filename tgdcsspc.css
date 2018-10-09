@@ -1,0 +1,240 @@
+
+
+
+body,html {
+    height: auto!important
+}
+
+header .row>div:nth-child(1)>a {
+    display: block;
+    width: 145px;
+    height: 50px;
+    background: url(https://i.imgur.com/LXWHw1L.png) no-repeat
+}
+header .row>div:nth-child(1)>a img {
+    opacity: 0
+}
+
+header #right-search-form>#right-search-btn {
+    color: #7ce3f7;
+    background: 0 0;
+    border: none;
+    font-size: 1.4em
+}
+
+header #right-search-form>input[type=text] {
+    position: relative;
+    border: 3px solid #7ce3f7;
+    background: #fff;
+    font-size: 1.1em;
+    padding: .3em .5em
+}
+
+header #header-bar>.row {
+    padding-top: .3em;
+    padding-bottom: .3em;
+    border-top: 5px solid #7ce3f7;
+    border-bottom: 2px solid #ebeae8;
+    border-right: 2px solid #ebeae8;
+    z-index: 200
+}
+
+#main #main-content>div.frame,#main .menu-wrapper {
+    border-right: 0;
+    border-bottom: 0
+}
+
+header #header-bar #header-top-notice strong.notice-badge {
+    background: #7ce3f7;
+    padding: 4px 8px;
+    color: #fff;
+    font-weight: 700
+}
+
+#main .menu-wrapper>.header {
+    background: #7ce3f7;
+    color: #fff;
+    padding: .45em 1.4em .45em 1em;
+    font-weight: 700
+}
+
+#main .menu-wrapper>.header {
+    background: #7ce3f7;
+    color: #fff;
+    padding: .45em 1.4em .45em 1em;
+    font-weight: 700
+}
+
+#main .menu-wrapper>a>em {
+    color: #c5a0de
+}
+
+.pagination>li>a,.pagination>li>span {
+    color: #7ce3f7
+}
+
+.pagination>li>a:hover {
+    background-color: #9aedf5;
+    color: #fff
+}
+
+.pagination>.active>a,.pagination>.active>a:focus,.pagination>.active>a:hover,.pagination>.active>span,.pagination>.active>span:focus,.pagination>.active>span:hover {
+    background-color: #7ce3f7;
+    border-color: #7ce3f7
+}
+
+#article-content-wrapper>.header {
+    border-top: 3px solid #7ce3f7;
+    background: #c1d3d6;
+}
+#article-content-wrapper>.footer {
+    border-bottom: 3px solid #7ce3f7;
+    background: #c1d3d6;
+}
+#article-list {
+    margin: 0;
+    padding: 0 0 2em
+}
+
+#article-list>.article-list-row>.item>.list-header>span {
+    background-color: #7ce3f7;
+    color: #fff;
+    font-weight: 700;
+    padding: 1px 5px;
+    font-size: 11px;
+    border-radius: 100px
+}
+
+#article-list #article-list-category {
+    border-top: 3px solid #7ce3f7;
+    background: #c1d3d6;
+}
+
+#article-list #article-list-category>a {
+    display: inline-block;
+    padding: 11px 16px;
+    background: #c1d3d6;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700
+}
+
+#article-reply-area #reply-real-area .reply>.reply-header {
+    background: #c1d3d6
+}
+
+#article-reply-area>.header h5 {
+    font-size: 14px;
+    color: #7ce3f7;
+    font-weight: 700
+}
+
+#board-info {
+    border-top: 3px solid #7ce3f7;
+    overflow: inherit;
+    padding: 5px 5px 0 8px;
+    margin: 0
+}
+
+#board-info h1>a {
+    color: #4c4646;
+}
+
+#board-info #board-info-profile-img {
+    border-radius: 5em;
+    border: 1px solid #7ce3f7
+}
+
+#board-info #viewers-area #viewers:before {
+    content: "쳎게더 공략 파티 ";
+    cursor: text
+}
+
+#board-info #viewers-area #viewers:after {
+    content: "인";
+    cursor: text
+}
+
+#board-info #viewers-area .fa-user:before {
+    color: rgba(10,59,84,0);
+    content: url(https://i.imgur.com/yzzGgLL.png)
+}
+
+#article-list>.article-list-row>.item>.list-title>.list-writer.logged>span,#article-list>.article-list-row>.item>.list-title>a,body {
+    color: #4c4646;
+}
+
+#article-list #article-list-menu>.btn.best>.fa.fa-star:before,.btn-outline-success>i.fa.fa-thumbs-up:before,span.a-badge i.fa.fa-star:before {
+    content: "\f004"
+}
+
+#article-list #article-list-menu>.btn.write {
+    margin-right: 1em
+}
+
+.btn-primary {
+    background: #7ce3f7;
+    border-color: #fff
+}
+
+.btn-primary:active,.btn-primary:focus,.btn-primary:hover {
+    background-color: #7ce3f7 !important;
+    border: none
+}
+
+html {
+    background: linear-gradient(to bottom,#ebffff,#c2ffff)
+}
+
+body {
+    background: 0 0
+}
+
+.menu-wrapper div.spacer {
+    pointer-events: none
+}
+
+#article-list>.article-list-row.notice {
+    background-color: #c1d3d6
+}
+
+#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover {
+    background-color: #d9f2ff
+}
+
+#article-list>.article-list-row>.item>.list-blocked,#article-list>.article-list-row>.item>.list-category,#article-list>.article-list-row>.item>.list-checkbox,#article-list>.article-list-row>.item>.list-header,#article-list>.article-list-row>.item>.list-time,#article-list>.article-list-row>.item>.list-title {
+    border-bottom: 0 solid #fff
+}
+
+#article-list>.article-list-row>.item>.list-header>strong {
+    color: #7ce3f7
+}
+
+header>#header-search-bar #header-search-input {
+    border: 2px solid #06c
+}
+
+header>#header-search-bar #header-search-btn {
+    color: #09f
+}
+.fr-toolbar {
+    border-top: 5px solid #4c4646;
+}
+
+#article-list #article-list-menu>.btn.best,.btn-outline-success {
+    border-color: #7ce3f7;
+    color: #7ce3f7
+}
+
+.fr-popup .fr-command.fr-btn,.fr-toolbar .fr-command.fr-btn {
+    color: #4c4646;
+}
+
+span.a-badge i.fa.fa-star {
+    color: #7ce3f7;
+    vertical-align: -2px!important
+}
+
+#article-list #article-list-menu>.btn.best {
+    margin-left: 1em
+}
