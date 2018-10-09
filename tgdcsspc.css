@@ -146,12 +146,12 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 #board-info #viewers-area #viewers:before {
-    content: "«p°Ô´õ °ø·« ÆÄÆ¼ ";
+    content: "ì³ê²Œë” ê³µëµ íŒŒí‹° ";
     cursor: text
 }
 
 #board-info #viewers-area #viewers:after {
-    content: "ÀÎ";
+    content: "ì¸";
     cursor: text
 }
 
